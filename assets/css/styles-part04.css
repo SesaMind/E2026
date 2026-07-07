@@ -1,0 +1,37 @@
+/* styles-part04.css */
+/* Code, Quotes, Mermaid */
+code,kbd{
+background:#eef2ff;
+padding:.15rem .35rem;
+border-radius:6px;
+font-family:ui-monospace,SFMono-Regular,Consolas,monospace;
+font-size:.92em;
+}
+pre{
+background:#0f172a;
+color:#e2e8f0;
+padding:1.25rem;
+overflow:auto;
+border-radius:12px;
+line-height:1.6;
+}
+pre code{background:transparent;padding:0;color:inherit}
+blockquote{
+border-left:4px solid var(--color-primary);
+padding:1rem 1.25rem;
+margin:2rem 0;
+background:var(--color-surface);
+color:var(--color-muted);
+font-style:italic;
+}
+.mermaid{
+display:flex;
+justify-content:center;
+padding:1.5rem;
+margin:2rem 0;
+background:#fff;
+border:1px solid var(--color-border);
+border-radius:var(--radius);
+box-shadow:var(--shadow);
+overflow:auto;
+}
