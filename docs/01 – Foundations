@@ -1,0 +1,419 @@
+# Lesson 01 — Foundations
+
+> Repository: **The OPIc AL Bible**  
+> Module: **01 – Foundations**
+
+---
+
+# Learning Objectives
+
+After completing this lesson, you will be able to:
+
+- explain what OPIc actually measures
+- distinguish language knowledge from speaking ability
+- understand why AL is a communication level rather than a grammar level
+- identify the components of an effective spoken response
+- recognize the mental process behind real-time speaking
+
+---
+
+# Prerequisites
+
+Before studying this lesson, complete:
+
+- 00 — Learning Path
+
+---
+
+# First Principle
+
+## OPIc measures communication performance, not English knowledge.
+
+Many learners mistakenly optimize for:
+
+- vocabulary
+- grammar
+- memorized answers
+
+These are inputs.
+
+The examination evaluates the output:
+
+> **Can you communicate naturally and continuously under realistic conversational conditions?**
+
+---
+
+# Core Mechanism
+
+Speaking is a real-time decision-making process.
+
+The complete process can be represented as:
+
+```text
+Question
+      │
+      ▼
+Interpret Meaning
+      │
+      ▼
+Retrieve Relevant Memory
+      │
+      ▼
+Organize Ideas
+      │
+      ▼
+Generate Language
+      │
+      ▼
+Monitor Speech
+      │
+      ▼
+Continue Conversation
+```
+
+Failure at any stage affects overall performance.
+
+---
+
+# The Speaking System
+
+Speaking consists of five interacting systems.
+
+| System | Purpose |
+|---------|---------|
+| Comprehension | Understand the question |
+| Content | Decide what to say |
+| Organization | Arrange ideas logically |
+| Language Production | Produce English fluently |
+| Self-Monitoring | Detect and recover from mistakes |
+
+Improving only vocabulary improves only one component.
+
+---
+
+# Language Knowledge vs Speaking Ability
+
+| Language Knowledge | Speaking Ability |
+|--------------------|------------------|
+| Vocabulary | Communication |
+| Grammar | Organization |
+| Reading | Fluency |
+| Memorization | Adaptation |
+| Accuracy | Interaction |
+
+Knowing English is not identical to speaking English.
+
+---
+
+# Why Memorized Answers Fail
+
+Memorization assumes:
+
+```
+One Question
+      ↓
+One Prepared Answer
+```
+
+Real OPIc behaves differently.
+
+```
+One Topic
+      ↓
+Many Question Variations
+      ↓
+Unexpected Follow-ups
+      ↓
+Adaptive Conversation
+```
+
+Therefore:
+
+```
+Prepared Script
+        <
+Flexible Speaking Framework
+```
+
+---
+
+# Characteristics of an AL Speaker
+
+An AL speaker usually demonstrates:
+
+- continuous speech
+- relevant content
+- logical progression
+- natural transitions
+- adequate detail
+- recovery after hesitation
+- flexibility when questions change
+
+Perfection is not required.
+
+Communication is.
+
+---
+
+# Decision Tree
+
+```text
+Receive Question
+       │
+       ▼
+Understand Intent?
+       │
+ ┌─────┴─────┐
+ │           │
+No          Yes
+ │           │
+Clarify     Recall Experience
+ │           │
+ ▼           ▼
+Organize Main Idea
+       │
+       ▼
+Expand Naturally
+       │
+       ▼
+Conclude
+```
+
+---
+
+# Mermaid Diagram
+
+```mermaid
+flowchart LR
+
+Q[Question]
+
+Q-->A[Interpret]
+
+A-->B[Recall Experience]
+
+B-->C[Organize]
+
+C-->D[Speak]
+
+D-->E[Monitor]
+
+E-->F[Continue]
+```
+
+---
+
+# Framework
+
+An effective response generally contains four stages.
+
+```text
+Opening
+
+↓
+
+Main Point
+
+↓
+
+Supporting Details
+
+↓
+
+Natural Closing
+```
+
+This structure is reusable across nearly every topic.
+
+---
+
+# Failure Modes
+
+Common beginner mistakes include:
+
+### 1. Answering Too Briefly
+
+One sentence is rarely enough.
+
+---
+
+### 2. Memorizing Entire Scripts
+
+Unexpected questions immediately expose memorization.
+
+---
+
+### 3. Grammar Perfectionism
+
+Thinking too much reduces fluency.
+
+---
+
+### 4. Listing Facts
+
+Responses become disconnected.
+
+---
+
+### 5. Ignoring Organization
+
+Ideas appear random.
+
+---
+
+# Best Practices
+
+✅ Understand before answering.
+
+✅ Think in ideas instead of sentences.
+
+✅ Expand naturally.
+
+✅ Use personal experience whenever possible.
+
+✅ Maintain conversational flow.
+
+---
+
+# Practice
+
+Describe your hometown for two minutes.
+
+While practicing, evaluate yourself.
+
+Did you:
+
+- introduce the topic?
+- provide supporting details?
+- connect ideas logically?
+- continue speaking without stopping?
+- conclude naturally?
+
+---
+
+# Exercises
+
+## Exercise 1
+
+Record yourself answering:
+
+> "Tell me about your hometown."
+
+Listen again.
+
+Identify:
+
+- unnecessary pauses
+- repeated words
+- missing details
+- abrupt ending
+
+---
+
+## Exercise 2
+
+Repeat the same topic.
+
+Use different wording.
+
+The goal is flexibility rather than memorization.
+
+---
+
+# Checklist
+
+Before moving forward:
+
+- [ ] I understand what OPIc measures.
+- [ ] I know the difference between English knowledge and speaking ability.
+- [ ] I understand why memorization is unreliable.
+- [ ] I can explain the speaking process.
+- [ ] I can organize a response into four stages.
+
+---
+
+# Quiz
+
+## Question 1
+
+What is the primary objective of OPIc?
+
+A. Grammar accuracy
+
+B. Vocabulary size
+
+C. Communication performance
+
+D. Reading comprehension
+
+**Answer:** C
+
+---
+
+## Question 2
+
+Which component comes immediately after understanding the question?
+
+A. Grammar correction
+
+B. Retrieve relevant memory
+
+C. Vocabulary memorization
+
+D. Pronunciation practice
+
+**Answer:** B
+
+---
+
+## Question 3
+
+Why are speaking frameworks superior to scripts?
+
+A. They require less vocabulary.
+
+B. They adapt to changing questions.
+
+C. They eliminate mistakes.
+
+D. They improve pronunciation automatically.
+
+**Answer:** B
+
+---
+
+# Key Takeaways
+
+- OPIc evaluates communication rather than language knowledge.
+- Speaking is a sequence of cognitive decisions.
+- Organization is as important as vocabulary.
+- Flexible frameworks outperform memorized responses.
+- Continuous communication is the central goal.
+
+---
+
+# Summary
+
+The foundation of AL-level speaking is not advanced English.
+
+It is the ability to transform ideas into organized, continuous communication under real conversational conditions.
+
+Every remaining lesson builds upon this mechanism.
+
+---
+
+# Next Lesson
+
+**02 — What Does OPIc Actually Measure?**
+
+Topics:
+
+- Construct being assessed
+- Observable behaviors
+- Rating dimensions
+- Why AL differs from IH
+- Misconceptions about scoring
+
+---
+
+**End of Lesson 01**
