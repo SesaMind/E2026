@@ -1,0 +1,36 @@
+/* styles-part01.css */
+/* ==========================================================================
+   CSS Variables
+   ========================================================================== */
+:root{
+  --color-bg:#fff;
+  --color-surface:#f8fafc;
+  --color-text:#1e293b;
+  --color-muted:#64748b;
+  --color-border:#e2e8f0;
+  --color-primary:#4f46e5;
+  --radius:12px;
+  --shadow:0 2px 8px rgba(15,23,42,.06);
+  --space-1:.25rem;--space-2:.5rem;--space-3:1rem;--space-4:1.5rem;--space-5:2rem;
+  --font:Inter,system-ui,"Segoe UI",Roboto,Arial,sans-serif;
+}
+/* Reset */
+*,*::before,*::after{box-sizing:border-box}
+html{font-size:16px;scroll-behavior:smooth}
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,figure,blockquote{margin:0}
+body{
+ font-family:var(--font);background:var(--color-bg);color:var(--color-text);
+ line-height:1.75;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;
+}
+img{max-width:100%;display:block}
+a{color:var(--color-primary);text-decoration:none}
+a:hover{text-decoration:underline}
+::selection{background:#c7d2fe;color:#111827}
+::-webkit-scrollbar{width:10px}
+::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:999px}
+::-webkit-scrollbar-track{background:#f8fafc}
+h1,h2,h3,h4,h5,h6{font-weight:700;line-height:1.25;letter-spacing:-.02em;margin:0 0 1rem}
+h1{font-size:clamp(2.2rem,5vw,3.5rem)}
+h2{font-size:clamp(1.8rem,4vw,2.5rem)}
+h3{font-size:1.5rem}
+p,li{max-width:72ch}
